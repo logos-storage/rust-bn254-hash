@@ -1,4 +1,6 @@
 
+#![allow(unused_imports)]
+
 use ark_ff::prelude::{Zero};
 use ark_bn254::Fr as F;
 

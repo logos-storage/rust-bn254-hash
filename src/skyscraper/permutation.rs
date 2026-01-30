@@ -1,7 +1,6 @@
 use ark_bn254::{Fr as F};
 use ark_ff::{BigInteger256, Field, One, PrimeField};
 use core::str::FromStr;
-use std::os::macos::raw::stat;
 use crate::skyscraper::constants::{FunctionBlock, RF1, RC, RC_RAW};
 use crate::state::State;
 
